@@ -1,3 +1,8 @@
+# This is a single line comment
+""" 
+This is a multi line comment 
+"""
+
 x = 15
 y = 10
 
